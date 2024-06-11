@@ -32,7 +32,7 @@ The Library Management System is designed to perform various operations related 
 ## Installation
 1. **Clone the repository:**
     \`\`\`bash
-    git clone https://github.com/yourusername/library-management-system.git
+    git clone https://github.com/ibrahimsaber1/Lynda-Library-Proejct.git
     cd library-management-system
     \`\`\`
 
