@@ -1,4 +1,3 @@
-readme_content = """
 # Library Management System
 
 This project demonstrates my ability to link Python with MySQL to manage a library database. It includes SQL queries to perform various operations such as checking available books, adding new books, generating reports, and more.
@@ -161,4 +160,3 @@ The following are the key SQL queries used in this project:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"""
